@@ -1,0 +1,25 @@
+bory{
+    background-color: rgb(183, 193, 202);
+}
+h2{
+    text-align: center;
+    background-color: blueviolet;
+}
+h3{
+    text-align:center;
+    margin:10px;
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    margin:10px;
+   background-color: blueviolet;
+}
+form-group{
+    max-width: 750px;
+    margin: 10px;
+    background-color: blue;
+}
+button{
+    background-color: rgb(30, 210, 54);
+}
